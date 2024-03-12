@@ -4,7 +4,7 @@
 
 1. Clone the repository from GitHub.
 2. Open the project in IntelliJ IDEA 2023.3.4 or any other IDE that supports Java and Maven.
-3. Ensure that you have Java and Maven installed on your Linux machine.
+3. Ensure that you have Java and Maven installed on your Linux machine. If you use Windows Follow [this](https://itsfoss.com/install-windows-after-ubuntu-dual-boot/) guide to install Linux on your System. Don't use Windows its bad!
 4. Build the project using Maven. In the terminal, navigate to the project directory and run the command `mvn clean install`.
 5. Run the application. In IntelliJ, you can do this by clicking on the 'Run' button.
 
